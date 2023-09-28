@@ -11,7 +11,7 @@ The imaging of glitch art's RGB Split Glitch distorts the artistic image, and th
 
 ## Part 2
 ![result](readmeImages/result.png)
-*[Glitch Art-RGB Split]( https://github.com/conorbailey90/rgb-split-distortion-scroll-effect)
+*[Glitch Art-RGB Split]( https://github.com/conorbailey90/rgb-split-distortion-scroll-effect)*
 
 
 1. Set the basic settings of the image in css.
